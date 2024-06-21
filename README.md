@@ -1,1 +1,1 @@
-"# CliniVet" 
+Projeto freelance desenvolvido para a clínica veterinária Clinivet. Site construído com HTML, CSS e JavaScript, oferecendo uma interface intuitiva para agendamento de consultas, informações sobre serviços e contato com a clínica.
